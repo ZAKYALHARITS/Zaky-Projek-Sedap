@@ -1,0 +1,32 @@
+[
+  {
+    "order_id": 1001,
+    "nama_pemesan": "Andi",
+    "email": "andi@example.com",
+    "status": "diproses"
+  },
+  {
+    "order_id": 1002,
+    "nama_pemesan": "Budi",
+    "email": "budi@example.com",
+    "status": "dikirim"
+  },
+  {
+    "order_id": 1003,
+    "nama_pemesan": "Citra",
+    "email": "citra@example.com",
+    "status": "selesai"
+  },
+  {
+    "order_id": 1004,
+    "nama_pemesan": "Dian",
+    "email": "dian@example.com",
+    "status": "dibatalkan"
+  },
+  {
+    "order_id": 1005,
+    "nama_pemesan": "Eka",
+    "email": "eka@example.com",
+    "status": "diproses"
+  }
+]

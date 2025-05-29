@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Indomie Goreng Mie Instan",
+    "price": 170.0,
+    "image": "/public/img/Indomie Goreng Mie Instan.png",
+    "isNew": true
+  },
+  {
+    "id": 2,
+    "name": "Indomie Goreng Ayam Panggang",
+    "price": 170.0,
+    "image": "/public/img/Indomie Goreng Ayam Panggang.png",
+    "isNew": false
+  },
+  {
+    "id": 3,
+    "name": "Indomie Beef Flavour",
+    "price": 170.0,
+    "image": "/public/img/Indomie Beef Flavour.png",
+    "isNew": true
+  },
+  {
+    "id": 4,
+    "name": "Indomie Goreng Rendang",
+    "price": 170.0,
+    "image": "/public/img/Indomie Goreng Rendang.png",
+    "isNew": false
+  },
+  {
+    "id": 5,
+    "name": "Indomie Soto Mie",
+    "price": 180.0,
+    "image": "/public/img/Rasa Soto Mie.jpg",
+    "isNew": true
+  },
+  {
+    "id": 6,
+    "name": "Indomie Rasa Ayam Bawang",
+    "price": 160.0,
+    "image": "/public/img/Indomie Rasa Ayam Bawang.png",
+    "isNew": false
+  },
+  {
+    "id": 7,
+    "name": "Indomie rasa kaldu udang big",
+    "price": 190.0,
+    "image": "/public/img/indomie rasa kaldu udang big.png",
+    "isNew": true
+  },
+  {
+    "id": 8,
+    "name": "indomie mi goreng cabe ijo flavour",
+    "price": 150.0,
+    "image": "/public/img/indomie mi goreng cabe ijo flavour.png",
+    "isNew": false
+  },
+  {
+    "id": 9,
+    "name": "indomie mi goreng spicy beef ribs flavour",
+    "price": 175.0,
+    "image": "/public/img/indomie mi goreng spicy beef ribs flavour.png",
+    "isNew": true
+  },
+  {
+    "id": 10,
+    "name": "indomie mi goreng satay flavour",
+    "price": 160.0,
+    "image": "/public/img/indomie mi goreng satay flavour.png",
+    "isNew": false
+  },
+  {
+    "id": 11,
+    "name": "indomie mi goreng hot spicy",
+    "price": 185.0,
+    "image": "/public/img/indomie mi goreng hot spicy.png",
+    "isNew": true
+  },
+  {
+    "id": 12,
+    "name": "indomie special fried curly noodles",
+    "price": 170.0,
+    "image": "/public/img/indomie special fried curly noodles.png",
+    "isNew": false
+  }
+]

@@ -1,0 +1,55 @@
+.product-showcase-container {
+  display: flex;
+  gap: 30px;
+  padding: 40px 20px;
+  background: #ffffff; /* Mengubah warna latar belakang menjadi putih */
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product-card {
+  width: 320px;
+  min-height: 180px;
+  padding: 30px;
+  background: #f9fafb;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.07);
+  text-align: left;
+  cursor: pointer;
+  transition: background 0.3s;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+}
+
+.product-card:hover {
+  background: #e30613; /* Mengubah hover menjadi abu-abu agar tetap nyaman dipandang */
+}
+
+.product-image {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.product-info {
+  flex: 1;
+}
+
+.product-title {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+
+.product-desc {
+  margin-bottom: 6px;
+  color: #555;
+}
+
+.product-price {
+  color: #7ec3d3;
+  font-weight: 600;
+}

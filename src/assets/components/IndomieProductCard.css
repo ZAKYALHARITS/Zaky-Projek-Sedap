@@ -1,0 +1,180 @@
+/* Indomie Product Card Styling */
+.indomie-product-card {
+  display: flex;
+  max-width: 900px;
+  margin: 0 auto;
+  background: linear-gradient(to bottom, #ffffff, #f8f8f8);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+}
+
+.indomie-product-card:hover {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+/* Image Section */
+.indomie-product-image {
+  flex: 1;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e30613;
+}
+
+.indomie-thumbnail {
+  width: 100%;
+  max-width: 350px;
+  height: auto;
+  border-radius: 8px;
+  border: 3px solid #e30613;
+  transition: transform 0.3s ease-in-out;
+}
+
+.indomie-thumbnail:hover {
+  transform: scale(1.05);
+}
+
+/* Info Section */
+.indomie-product-info {
+  flex: 1;
+  padding: 30px;
+}
+
+.indomie-product-title {
+  font-size: 1.8rem;
+  color: #e30613;
+  margin-bottom: 15px;
+  font-weight: 800;
+}
+
+.indomie-reviews {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.indomie-rating {
+  color: #ffc107;
+  font-size: 1.2rem;
+}
+
+.indomie-add-review {
+  background: none;
+  border: none;
+  color: #e30613;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.indomie-pricing {
+  margin: 20px 0;
+}
+
+.indomie-original-price {
+  font-size: 1.5rem;
+  color: #999;
+  text-decoration: line-through;
+  margin-right: 15px;
+}
+
+.indomie-discounted-price {
+  font-size: 2rem;
+  color: #e30613;
+  font-weight: bold;
+}
+
+.indomie-variants {
+  margin: 25px 0;
+}
+
+.indomie-variant {
+  margin-bottom: 15px;
+}
+
+.indomie-variant strong {
+  margin-right: 10px;
+  color: #333;
+}
+
+.indomie-size-select {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  background-color: white;
+  color: #333;
+}
+
+.indomie-specs {
+  margin: 25px 0;
+  color: #555;
+  line-height: 1.6;
+}
+
+.indomie-specs p {
+  margin-bottom: 8px;
+}
+
+.indomie-specs strong {
+  color: #333;
+}
+
+/* Countdown Timer */
+.indomie-countdown {
+  margin-top: 30px;
+}
+
+.indomie-countdown-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.indomie-timer {
+  display: flex;
+  gap: 15px;
+}
+
+.indomie-time-unit {
+  text-align: center;
+}
+
+.indomie-time-value {
+  display: block;
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #e30613;
+  background: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.indomie-time-label {
+  display: block;
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 5px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .indomie-product-card {
+    flex-direction: column;
+  }
+
+  .indomie-product-image,
+  .indomie-product-info {
+    padding: 20px;
+  }
+
+  .indomie-timer {
+    justify-content: center;
+  }
+}

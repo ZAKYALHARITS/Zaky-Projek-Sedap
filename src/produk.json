@@ -1,0 +1,122 @@
+[
+  {
+    "kode_produk": "PRD001",
+    "nama_produk": "Indomie Goreng Mie Instan",
+    "harga": 17000,
+    "stok": 20
+  },
+  {
+    "kode_produk": "PRD002",
+    "nama_produk": "Indomie Goreng Ayam Panggang",
+    "harga": 18000,
+    "stok": 15
+  },
+  {
+    "kode_produk": "PRD003",
+    "nama_produk": "Indomie Goreng Pedas Manis",
+    "harga": 18500,
+    "stok": 25
+  },
+  {
+    "kode_produk": "PRD004",
+    "nama_produk": "Indomie Goreng Spesial",
+    "harga": 19000,
+    "stok": 30
+  },
+  {
+    "kode_produk": "PRD005",
+    "nama_produk": "Indomie Goreng Rendang",
+    "harga": 20000,
+    "stok": 10
+  },
+  {
+    "kode_produk": "PRD006",
+    "nama_produk": "Indomie Goreng Sambal Matah",
+    "harga": 20000,
+    "stok": 5
+  },
+  {
+    "kode_produk": "PRD007",
+    "nama_produk": "Indomie Goreng Barbecue",
+    "harga": 19000,
+    "stok": 12
+  },
+  {
+    "kode_produk": "PRD008",
+    "nama_produk": "Indomie Goreng Terasi",
+    "harga": 18500,
+    "stok": 18
+  },
+  {
+    "kode_produk": "PRD009",
+    "nama_produk": "Indomie Goreng Telur Dadar",
+    "harga": 17500,
+    "stok": 8
+  },
+  {
+    "kode_produk": "PRD010",
+    "nama_produk": "Indomie Goreng Mie Samyang",
+    "harga": 22000,
+    "stok": 6
+  },
+  {
+    "kode_produk": "PRD011",
+    "nama_produk": "Indomie Goreng Kwetiau",
+    "harga": 21500,
+    "stok": 10
+  },
+  {
+    "kode_produk": "PRD012",
+    "nama_produk": "Indomie Goreng Tahu Tempe",
+    "harga": 18000,
+    "stok": 0
+  },
+  {
+    "kode_produk": "PRD013",
+    "nama_produk": "Indomie Goreng Sate Ayam",
+    "harga": 21000,
+    "stok": 3
+  },
+  {
+    "kode_produk": "PRD014",
+    "nama_produk": "Indomie Goreng Ayam Bumbu Bali",
+    "harga": 22000,
+    "stok": 5
+  },
+  {
+    "kode_produk": "PRD015",
+    "nama_produk": "Indomie Goreng Special Terasi",
+    "harga": 17500,
+    "stok": 0
+  },
+  {
+    "kode_produk": "PRD016",
+    "nama_produk": "Indomie Goreng Daging Sapi",
+    "harga": 24000,
+    "stok": 8
+  },
+  {
+    "kode_produk": "PRD017",
+    "nama_produk": "Indomie Goreng Mie Kwetiau",
+    "harga": 19500,
+    "stok": 12
+  },
+  {
+    "kode_produk": "PRD018",
+    "nama_produk": "Indomie Soto Mie",
+    "harga": 16000,
+    "stok": 15
+  },
+  {
+    "kode_produk": "PRD019",
+    "nama_produk": "Indomie Kuah Ayam Bawang",
+    "harga": 15000,
+    "stok": 0
+  },
+  {
+    "kode_produk": "PRD020",
+    "nama_produk": "Indomie Kuah Mie Seafood",
+    "harga": 17000,
+    "stok": 22
+  }
+]

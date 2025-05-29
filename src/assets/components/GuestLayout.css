@@ -1,0 +1,27 @@
+#app-container {
+  background: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#layout-wrapper {
+  flex: 1;
+  width: 100%;
+}
+
+.section {
+  padding: 40px 20px;
+  width: 100%;
+}
+
+.container {
+  width: 100%;
+  max-width: none;
+  margin: 0 auto;
+}
+
+.bg-white,
+.bg-gray-50 {
+  background-color: transparent; /* Menghapus batas warna */
+}

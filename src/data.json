@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "count": 75,
+      "text": "Total Orders",
+      "icon": "FaShoppingCart",
+      "color": "bg-hijau"
+    },
+    {
+      "id": 2,
+      "count": 175,
+      "text": "Total Delivered",
+      "icon": "FaTruck",
+      "color": "bg-biru"
+    },
+    {
+      "id": 3,
+      "count": 40,
+      "text": "Total Canceled",
+      "icon": "FaBan",
+      "color": "bg-merah"
+    },
+    {
+      "id": 4,
+      "count": "Rp. 143",
+      "text": "Total Revenue",
+      "icon": "FaDollarSign",
+      "color": "bg-kuning"
+    }
+]
+  

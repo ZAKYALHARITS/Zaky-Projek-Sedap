@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Lamine Yamal",
+    "job": "DEVELOPER",
+    "avatar": "/img/lamine.jpeg",
+    "review": "Produk Sedap selalu bikin semangat kerja! Praktis dan nikmat di setiap waktu."
+  },
+  {
+    "name": "Robert Lewandowski",
+    "job": "DESAINER",
+    "avatar": "/img/Lewandowskijpeg.jpeg",
+    "review": "Sedap selalu jadi pilihan utama keluarga kami. Rasanya enak dan harganya terjangkau!"
+  },
+  {
+    "name": "Raphinha",
+    "job": "MARKETING",
+    "avatar": "/img/Raphinhajpeg.jpeg",
+    "review": "Varian rasanya banyak, selalu ada yang cocok untuk setiap suasana."
+  },
+  {
+    "name": "Frenkie de Jong",
+    "job": "PELANGGAN SETIA",
+    "avatar": "/img/de jong.jpeg",
+    "review": "Cepat saji, praktis, dan selalu bikin nagih."
+  },
+  {
+    "name": "Pedri",
+    "job": "CUSTOMER",
+    "avatar": "/img/pedri.jpeg",
+    "review": "Kualitasnya konsisten, tidak pernah mengecewakan."
+  },
+  {
+    "name": "Sergio Busquets",
+    "job": "SUPPORTER",
+    "avatar": "/public/img/Sergio Busquets.jpg",
+    "review": "Penuh rasa, cepat saji, dan selalu jadi pilihan utama saat santai."
+  },
+  {
+    "name": "Gerard Piqué",
+    "job": "PENGGEMAR SEDAP",
+    "avatar": "/public/img/Gerard Piqué.jpg",
+    "review": "Cocok banget untuk makan malam setelah latihan. Praktis dan lezat!"
+  },
+  {
+    "name": "Marc-André ter Stegen",
+    "job": "KONSUMEN TETAP",
+    "avatar": "/public/img/Marc-André ter Stegen.jpg",
+    "review": "Setiap varian rasanya luar biasa. Selalu jadi pilihan utama saya dan keluarga."
+  },
+  {
+    "name": "Ansu Fati",
+    "job": "PENGGEMAR INSTANT NOODLE",
+    "avatar": "/public/img/Ansu Fati.jpg",
+    "review": "Gampang dimasak dan rasanya enak. Tidak ada yang bisa mengalahkan rasa Sedap!"
+  },
+  {
+    "name": "Gavi",
+    "job": "PELATIH DAN PENGGUNA SETIA",
+    "avatar": "/public/img/Gavi.png",
+    "review": "Rasanya selalu enak dan praktis. Pilihan tepat untuk semua orang."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "Ayu",
+    "nomor_hp": "081234567890",
+    "poin": 120,
+    "status_member": "Gold"
+  },
+  {
+    "nama": "Budi",
+    "nomor_hp": "081298765432",
+    "poin": 80,
+    "status_member": "Silver"
+  },
+  {
+    "nama": "Citra",
+    "nomor_hp": "081234567891",
+    "poin": 150,
+    "status_member": "Platinum"
+  },
+  {
+    "nama": "Deni",
+    "nomor_hp": "081234567892",
+    "poin": 40,
+    "status_member": "Bronze"
+  },
+  {
+    "nama": "Eka",
+    "nomor_hp": "081234567893",
+    "poin": 60,
+    "status_member": "Silver"
+  }
+]

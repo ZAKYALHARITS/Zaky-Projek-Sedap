@@ -1,0 +1,121 @@
+/* Styling utama untuk daftar keranjang */
+.cart-list {
+  list-style: none;
+  padding: 20px;
+  background: linear-gradient(to bottom, #ffffff, #f8f8f8);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  max-width: 450px;
+  margin: auto;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Efek hover untuk seluruh daftar keranjang */
+.cart-list:hover {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+/* Styling untuk setiap item dalam keranjang */
+.cart-list li {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  border-bottom: 2px solid #ddd;
+  transition: background 0.3s ease-in-out;
+}
+
+.cart-list li:hover {
+  background: #f1f1f1;
+}
+
+/* Foto produk */
+.cart-thumb {
+  width: 75px;
+  height: 75px;
+  border-radius: 10px;
+  object-fit: cover;
+  margin-right: 20px;
+  border: 3px solid #e30613;
+  transition: transform 0.3s ease-in-out;
+}
+
+.cart-thumb:hover {
+  transform: scale(1.1);
+}
+
+/* Nama produk */
+.cart-list h6 a {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+.cart-list h6 a:hover {
+  color: #e30613;
+}
+
+/* Harga dan jumlah */
+.price {
+  font-size: 1.2rem;
+  color: #e30613;
+  font-weight: bold;
+}
+
+/* Bagian total dan shipping */
+.total {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #444;
+  padding: 15px 0;
+  border-top: 2px solid #ececec;
+}
+
+/* Efek tambahan pada total dan shipping */
+.total div {
+  padding: 5px;
+  font-weight: bold;
+  transition: transform 0.2s ease-in-out;
+}
+
+.total:hover div {
+  transform: scale(1.05);
+}
+
+/* Tombol aksi */
+.cart-btn {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+}
+
+.cart-btn a {
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 10px 25px;
+  border-radius: 30px;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Tombol aktif */
+.cart-btn .active {
+  background: #e30613;
+  color: white;
+  border: none;
+  box-shadow: 0 5px 15px rgba(227, 6, 19, 0.3);
+}
+
+.cart-btn .active:hover {
+  background: #b30510;
+}
+
+/* Efek hover pada tombol */
+.cart-btn a:hover {
+  background: #333;
+  color: white;
+  transform: scale(1.05);
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "RASA SPESIAL INDONESIA",
+    "subtitle": "NEW FLAVOR",
+    "description": "Nikmati kelezatan mie instan legendaris dengan cita rasa autentik Indonesia yang menggoda selera.",
+    "image": "/public/img/IndomiePremiumKoreanRose.png"
+  },
+  {
+    "title": "RASA PEDAS MENGGODA",
+    "subtitle": "HOT FLAVOR",
+    "description": "Rasakan sensasi pedas yang membakar lidah dengan rasa yang tetap lezat dan menggoda.",
+    "image": "/public/img/IndomiePremiumKoreanFieryChikin.png"
+  },
+  {
+    "title": "RASA GURIH NIKMAT",
+    "subtitle": "DELICIOUS FLAVOR",
+    "description": "Kelezatan rasa gurih yang membuat Anda ketagihan setiap suapan.",
+    "image": "/public/img/IndomieGorengAyamPanggangJumboMieinstan.png"
+  },
+  {
+    "title": "RASA MANIS SEIMBANG",
+    "subtitle": "SWEET FLAVOR",
+    "description": "Perpaduan rasa manis dan gurih yang sempurna untuk dinikmati kapan saja.",
+    "image": "/public/img/IndomieMieKuahKalduAyam.png"
+  }
+]
